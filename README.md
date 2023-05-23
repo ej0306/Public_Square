@@ -1,6 +1,5 @@
 # Public Square 
-### Web-based platform to search for Wi-Fi Hotspot
-### throughout NYC
+### Web-based platform to search for Wi-Fi Hotspot throughout NYC
 
 ## Home Page 
 ![Homepage1](https://github.com/ej0306/psquare/assets/54604143/1d83a288-5366-4809-8fac-1adbe6823a2c)
