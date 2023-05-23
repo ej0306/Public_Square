@@ -1,0 +1,1 @@
+web: gunicorn NYC_Public_Wifi.wsgi --log-file -

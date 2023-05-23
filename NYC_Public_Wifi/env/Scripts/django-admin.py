@@ -1,4 +1,4 @@
-#!D:\GitHub Repo\Public-Square\NYC_Public_Wifi\env\Scripts\python.exe
+#!d:\github repo\public_square\nyc_public_wifi\env\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

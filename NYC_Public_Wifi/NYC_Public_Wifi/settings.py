@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
+import django_heroku
 from decouple import config
 from pathlib import Path
 from unipath import Path
@@ -28,9 +29,9 @@ FIXTURES_DIRS = (os.path.join(NYC_PUBLIC_WIFI_DIR, 'fixtures'), ) # Add FIXTURES
 SECRET_KEY = 'django-insecure-^8=_moasq6cu4=5n0(g$o)er8ui()vhj%udkw)@y2(-xkhi2!a'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['publicsquare.herokuapp.com']
 
 
 # Application definition
@@ -144,3 +145,7 @@ STATICFILES_DIRS = (
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+# Activate Django-Heroku
+django_heroku.settings(locals())
