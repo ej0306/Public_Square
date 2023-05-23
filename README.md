@@ -7,8 +7,7 @@
 ![Homepage3](https://github.com/ej0306/Public_Square/assets/54604143/6b989511-639f-4e86-9a50-799c20a4edb6)
 ![Homepage4](https://github.com/ej0306/Public_Square/assets/54604143/6ce71558-b789-42c7-89c3-2f4c67e9c118)
 ![Homepage5](https://github.com/ej0306/Public_Square/assets/54604143/667558e0-5942-4e95-a61d-cf4e601212d2)
-## Searc!
-h Results
+## Search Results
 ![Search Results](https://github.com/ej0306/Public_Square/assets/54604143/a5436ec2-8a2f-4dfa-a899-5479e1d6deec)
 ## Lists of Wifi Hotspots
 ![List of Hotspots](https://github.com/ej0306/Public_Square/assets/54604143/21a8397e-4041-4b43-b0ea-fc839bec244c)
