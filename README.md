@@ -2,22 +2,22 @@
 ### Web-based platform to search for Wi-Fi Hotspot throughout NYC
 
 ## Home Page 
-![Homepage1](https://github.com/ej0306/psquare/assets/54604143/1d83a288-5366-4809-8fac-1adbe6823a2c)
-![Homepage2](https://github.com/ej0306/psquare/assets/54604143/a2c2dc3b-9c4f-4848-b672-f5b7fb529595)
-![Homepage3](https://github.com/ej0306/psquare/assets/54604143/65559cea-c32b-4afa-a4db-fc2b2d185791)
-![Homepage4](https://github.com/ej0306/psquare/assets/54604143/51ad2d3d-8319-4d22-bdd3-b8ea5dd714c5)
-![Homepage5](https://github.com/ej0306/psquare/assets/54604143/e4e3fea8-3766-4c1e-b5fb-4b8824afa5b5)
-## Search Results
-![Search Results](https://github.com/ej0306/psquare/assets/54604143/dbab7d9a-807e-4def-a1ef-7e48562f3a26)
+[Homepage1](https://github.com/ej0306/Public_Square/assets/54604143/3681fc2c-69a0-49db-9a20-481453347cde)
+![Homepage2](https://github.com/ej0306/Public_Square/assets/54604143/06b80882-f3ca-414f-9c7d-75b04fdd2e8c)
+![Homepage3](https://github.com/ej0306/Public_Square/assets/54604143/6b989511-639f-4e86-9a50-799c20a4edb6)
+![Homepage4](https://github.com/ej0306/Public_Square/assets/54604143/6ce71558-b789-42c7-89c3-2f4c67e9c118)
+![Homepage5](https://github.com/ej0306/Public_Square/assets/54604143/667558e0-5942-4e95-a61d-cf4e601212d2)
+## Searc!
+h Results
+![Search Results](https://github.com/ej0306/Public_Square/assets/54604143/a5436ec2-8a2f-4dfa-a899-5479e1d6deec)
 ## Lists of Wifi Hotspots
-![List of Hotspots](https://github.com/ej0306/psquare/assets/54604143/feb81a56-1d3a-4286-b0a6-1d801472d1e6)
+![List of Hotspots](https://github.com/ej0306/Public_Square/assets/54604143/21a8397e-4041-4b43-b0ea-fc839bec244c)
 ## Information about a specific Wifi Hotspot
-![Information about hotspots](https://github.com/ej0306/psquare/assets/54604143/92b17bca-02bd-4cb4-bafd-09a4457451e2)
+![Information about hotspots](https://github.com/ej0306/Public_Square/assets/54604143/b8bfe54e-1174-40e5-9c78-50cd994a82ec)
 ## User can review a specific Wifi hotspot
-![Reviews by user](https://github.com/ej0306/psquare/assets/54604143/0c8e3b7a-6ea2-443f-9863-c464e01dc527)
-## Example of a User Profile (This logged in user is an admin)
-![Screenshot 2023-05-21 195704](https://github.com/ej0306/psquare/assets/54604143/73c6ad6e-1579-4e17-8f0b-d9fbd0f5918f)
-
+![Reviews by user](https://github.com/ej0306/Public_Square/assets/54604143/14403901-1cb8-42a9-bfe4-4228aee954cc)
+## Example of a User Profile (Admin logged in)
+![Screenshot 2023-05-21 195704](https://github.com/ej0306/Public_Square/assets/54604143/0571adeb-74ab-46fa-ac1c-97199852d2f4)
 
 
 
