@@ -2,7 +2,7 @@
 ### Web-based platform to search for Wi-Fi Hotspot throughout NYC
 
 ## Home Page 
-[Homepage1](https://github.com/ej0306/Public_Square/assets/54604143/3681fc2c-69a0-49db-9a20-481453347cde)
+![Homepage1](https://github.com/ej0306/Public_Square/assets/54604143/3681fc2c-69a0-49db-9a20-481453347cde)
 ![Homepage2](https://github.com/ej0306/Public_Square/assets/54604143/06b80882-f3ca-414f-9c7d-75b04fdd2e8c)
 ![Homepage3](https://github.com/ej0306/Public_Square/assets/54604143/6b989511-639f-4e86-9a50-799c20a4edb6)
 ![Homepage4](https://github.com/ej0306/Public_Square/assets/54604143/6ce71558-b789-42c7-89c3-2f4c67e9c118)
